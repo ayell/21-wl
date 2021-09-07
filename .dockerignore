@@ -1,0 +1,14 @@
+dist
+node_modules
+
+.vscode
+
+.eslintrc.js
+.gitignore
+.huskyrc
+.prettierrc
+commitlint.config.js
+Dockerfile
+README.md
+.env
+README.md
